@@ -31,8 +31,8 @@
 <div align="center">
     <div>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" height="25" />
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=plastic" alt="Visual studio" height="25" style="margin-left: 5px; />
-        <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="25" style="margin-left: 5px;" />
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=plastic" alt="Visual studio" height="25" style="margin-left: 25px; />
+        <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="25" style="margin-left: 25px;" />
     </div>
 </div>
 <br>
