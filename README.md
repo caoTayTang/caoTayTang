@@ -1,8 +1,4 @@
 ### Hello 👋
-- 👋 I'm @caoTayTang or Kaios
-- 👀 I’m interested in coding.
-- 🌱 I’m currently student.
-- 📫 How to reach me: facebook.com/kaiosthefox
 
 <h2 align="center">💻 Programming Languages</h2>
 <br>
@@ -44,7 +40,7 @@
 <h2 align="center">📞 Contact me </h2>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/KaiosTheFox" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white&style=plastic"></a>
+    <a href="https://www.facebook.com/KaiosTheFox" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white&style=plastic"></a>
     <a href="mailto:lechidaitp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=plastic"></a>
 </div>
  
