@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lê Chí Đại.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+what+I+am" style="margin: auto;display: block;margin-left: auto;margin-right: auto;width: 40%;">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+what+I+am" style="display: block;margin-left: auto;margin-right: auto;width: 40%;">
 
 <h2 align="center">💻 Programming Languages</h2>
 <br>
