@@ -18,7 +18,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/git-181717?logo=git&logoColor=orange&style=plastic%22%20alt=%22Git%22%20height=%2225%22" />
+        <img src="https://img.shields.io/badge/git-181717?logo=Git&logoColor=orange&style=plastic%22%20alt=%22Git%22%20height=%2225%22" />
     </div>
 <br>
   
